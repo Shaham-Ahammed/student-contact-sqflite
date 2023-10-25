@@ -14,11 +14,11 @@ https://github.com/Shaham-Ahammed/student-contact-sqflite/assets/144320561/d6c43
 It was my first experience in using a database to store a group of data. I have decided to go with sqfite which is a relational database inorder to do this project. it took me some days to understand the corrcet concept of databse and i was able to execute my understandings in to my project and successfully finished my project as i expected
 ## How to Use 🤔
 
-- Clone this repository:
-$ git clone https://github.com/Shaham-Ahammed/login-page-shared-preference.git 
+          - Clone this repository:
+            $ git clone https://github.com/Shaham-Ahammed/student-contact-sqflite.git
 
-- For install dependencies:
-$ flutter pub get
+          - For install dependencies:
+            $ flutter pub get
 
-- Run the app: 
-$ flutter run
+          - Run the app: 
+            $ flutter run
