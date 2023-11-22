@@ -9,7 +9,7 @@ class SQLHelper {
      age TEXT,
      phone TEXT,
      gender TEXT,
-     images TEXT,
+     images TEXT
      
     )""");
   }
